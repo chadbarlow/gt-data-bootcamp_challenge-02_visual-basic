@@ -1,4 +1,4 @@
-<h1 align="left"> VISUAL BASIC<br><i>Topic: Stock Markets</i> </h1> 
+<h1 align="left"> VISUAL BASIC SCRIPTING<br><i>Topic: Stock Markets</i> </h1> 
 
 The objective of the project is to use VBA scripting to analyze stock market data and provide insights such as yearly change, percentage change, and total stock volume. The project aims to automate data analysis tasks and improve the efficiency of analyzing stock market data.
 
